@@ -1,0 +1,197 @@
+TShowMe
+v7
+r0
+t313590348.406681
+cCheck dependencies
+cProcessInfoPlistFile /Users/Bennyy/ShowMe/build/Debug/ShowMe.app/Contents/Info.plist ShowMe-Info.plist
+cCopyStringsFile /Users/Bennyy/ShowMe/build/Debug/ShowMe.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/Bennyy/ShowMe/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShowMe_Prefix-afiawrhtsqhiepgukxdjsywdadhx/ShowMe_Prefix.pch.gch ShowMe_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ShowMe.build/Debug/ShowMe.build/Objects-normal/i386/main.o /Users/Bennyy/ShowMe/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ShowMe.build/Debug/ShowMe.build/Objects-normal/i386/ShowMeAppDelegate.o /Users/Bennyy/ShowMe/ShowMeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Bennyy/ShowMe/build/Debug/ShowMe.app/Contents/MacOS/ShowMe normal i386
+cTouch /Users/Bennyy/ShowMe/build/Debug/ShowMe.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/Bennyy/ShowMe/English.lproj/InfoPlist.strings
+c000000004D00BEC4000000000000002D
+t1291894468
+s45
+
+N/Users/Bennyy/ShowMe/English.lproj/MainMenu.xib
+c000000004D00C114000000000002FF2C
+t1291895060
+s196396
+
+N/Users/Bennyy/ShowMe/ShowMeAppDelegate.h
+c000000004D00C0B3000000000000022F
+t1291894963
+s559
+i<Cocoa/Cocoa.h>
+
+N/Users/Bennyy/ShowMe/ShowMeAppDelegate.m
+c000000004D00CACC00000000000007EF
+t1291897548
+s2031
+i"ShowMeAppDelegate.h"
+
+N/Users/Bennyy/ShowMe/ShowMe_Prefix.pch
+c000000004D00BEC4000000000000008F
+t1291894468
+s143
+i<Cocoa/Cocoa.h>
+
+N/Users/Bennyy/ShowMe/build/Debug/ShowMe.app
+t1291897548
+s102
+
+N/Users/Bennyy/ShowMe/build/Debug/ShowMe.app/Contents/Info.plist
+t1291894794
+s883
+
+N/Users/Bennyy/ShowMe/build/Debug/ShowMe.app/Contents/MacOS/ShowMe
+t1291897548
+s19036
+
+N/Users/Bennyy/ShowMe/build/Debug/ShowMe.app/Contents/PkgInfo
+t1291894794
+s8
+
+N/Users/Bennyy/ShowMe/build/Debug/ShowMe.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1291894794
+s92
+
+N/Users/Bennyy/ShowMe/build/Debug/ShowMe.app/Contents/Resources/English.lproj/MainMenu.nib
+t1291895601
+s37405
+
+N/Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/Objects-normal/i386/ShowMe.LinkFileList
+c000000004D00C00A00000000000000B9
+t1291894794
+s185
+
+N/Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/Objects-normal/i386/ShowMeAppDelegate.o
+t1291897548
+s21384
+
+N/Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/Objects-normal/i386/main.o
+t1291894796
+s4820
+
+N/Users/Bennyy/ShowMe/main.m
+c000000004D00BEC400000000000000ED
+t1291894468
+s237
+i<Cocoa/Cocoa.h>
+
+N/var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShowMe_Prefix-afiawrhtsqhiepgukxdjsywdadhx/ShowMe_Prefix.pch.gch
+t1291894796
+s38344684
+
+NShowMe-Info.plist
+c000000004D00BEC400000000000003EA
+t1291894468
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313590348#313590348#0(0"0(0#1#0"2574409664#0"0#
+
+CCompileC build/ShowMe.build/Debug/ShowMe.build/Objects-normal/i386/ShowMeAppDelegate.o /Users/Bennyy/ShowMe/ShowMeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313590348.098574
+e313590348.371522
+r1
+xCompileC
+xbuild/ShowMe.build/Debug/ShowMe.build/Objects-normal/i386/ShowMeAppDelegate.o
+x/Users/Bennyy/ShowMe/ShowMeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/Bennyy/ShowMe/ShowMeAppDelegate.m313590348#313590348#0(0"0(0#0#40"/Users/Bennyy/ShowMe/ShowMeAppDelegate.m2574409664#1252"    cd /Users/Bennyy/ShowMe    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/ShowMe-generated-files.hmap -I/Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/ShowMe-own-target-headers.hmap -I/Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/ShowMe-all-target-headers.hmap -iquote /Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/ShowMe-project-headers.hmap -F/Users/Bennyy/ShowMe/build/Debug -I/Users/Bennyy/ShowMe/build/Debug/include -I/Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/DerivedSources/i386 -I/Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/DerivedSources -include /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShowMe_Prefix-afiawrhtsqhiepgukxdjsywdadhx/ShowMe_Prefix.pch -c /Users/Bennyy/ShowMe/ShowMeAppDelegate.m -o /Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/Objects-normal/i386/ShowMeAppDelegate.o0#
+
+CCompileC build/ShowMe.build/Debug/ShowMe.build/Objects-normal/i386/main.o /Users/Bennyy/ShowMe/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313587596.745706
+e313587596.911957
+r1
+xCompileC
+xbuild/ShowMe.build/Debug/ShowMe.build/Objects-normal/i386/main.o
+x/Users/Bennyy/ShowMe/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Compile /Users/Bennyy/ShowMe/main.m313587596#313587596#0(0"0(0#0#27"/Users/Bennyy/ShowMe/main.m4231192#1226"    cd /Users/Bennyy/ShowMe    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/ShowMe-generated-files.hmap -I/Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/ShowMe-own-target-headers.hmap -I/Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/ShowMe-all-target-headers.hmap -iquote /Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/ShowMe-project-headers.hmap -F/Users/Bennyy/ShowMe/build/Debug -I/Users/Bennyy/ShowMe/build/Debug/include -I/Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/DerivedSources/i386 -I/Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/DerivedSources -include /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShowMe_Prefix-afiawrhtsqhiepgukxdjsywdadhx/ShowMe_Prefix.pch -c /Users/Bennyy/ShowMe/main.m -o /Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Bennyy/ShowMe/English.lproj/MainMenu.xib
+s313588401.655653
+e313588401.973051
+r1
+xCompileXIB
+x/Users/Bennyy/ShowMe/English.lproj/MainMenu.xib
+o2010-12-09 11:53:21.695 ibtool[487:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib313588401#313588401#0(107"2010-12-09 11:53:21.695 ibtool[487:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#47"/Users/Bennyy/ShowMe/English.lproj/MainMenu.xib2574409664#309"    cd /Users/Bennyy/ShowMe    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Bennyy/ShowMe/build/Debug/ShowMe.app/Contents/Resources/English.lproj/MainMenu.nib /Users/Bennyy/ShowMe/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/Bennyy/ShowMe/build/Debug/ShowMe.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s313587594.283688
+e313587594.397671
+r1
+xCopyStringsFile
+x/Users/Bennyy/ShowMe/build/Debug/ShowMe.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings313587594#313587594#0(0"0(0#0#52"/Users/Bennyy/ShowMe/English.lproj/InfoPlist.strings4231192#328"    cd /Users/Bennyy/ShowMe    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/Bennyy/ShowMe/build/Debug/ShowMe.app/Contents/Resources/English.lproj0#
+
+CLd /Users/Bennyy/ShowMe/build/Debug/ShowMe.app/Contents/MacOS/ShowMe normal i386
+s313590348.371616
+e313590348.404109
+r1
+xLd
+x/Users/Bennyy/ShowMe/build/Debug/ShowMe.app/Contents/MacOS/ShowMe
+xnormal
+xi386
+lSLF07#2@70"Link /Users/Bennyy/ShowMe/build/Debug/ShowMe.app/Contents/MacOS/ShowMe313590348#313590348#0(0"0(0#0#0"2574409664#443"    cd /Users/Bennyy/ShowMe    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Bennyy/ShowMe/build/Debug -F/Users/Bennyy/ShowMe/build/Debug -filelist /Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/Objects-normal/i386/ShowMe.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/Bennyy/ShowMe/build/Debug/ShowMe.app/Contents/MacOS/ShowMe0#
+
+CProcessInfoPlistFile /Users/Bennyy/ShowMe/build/Debug/ShowMe.app/Contents/Info.plist ShowMe-Info.plist
+s313587594.269736
+e313587594.283486
+r1
+xProcessInfoPlistFile
+x/Users/Bennyy/ShowMe/build/Debug/ShowMe.app/Contents/Info.plist
+xShowMe-Info.plist
+lSLF07#2@25"Process ShowMe-Info.plist313587594#313587594#0(0"0(0#0#38"/Users/Bennyy/ShowMe/ShowMe-Info.plist4231192#253"    cd /Users/Bennyy/ShowMe    builtin-infoPlistUtility ShowMe-Info.plist -genpkginfo /Users/Bennyy/ShowMe/build/Debug/ShowMe.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/Bennyy/ShowMe/build/Debug/ShowMe.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShowMe_Prefix-afiawrhtsqhiepgukxdjsywdadhx/ShowMe_Prefix.pch.gch ShowMe_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s313587594.609780
+e313587596.745579
+r1
+xProcessPCH
+x/var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShowMe_Prefix-afiawrhtsqhiepgukxdjsywdadhx/ShowMe_Prefix.pch.gch
+xShowMe_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile ShowMe_Prefix.pch313587594#313587596#0(0"0(0#0#38"/Users/Bennyy/ShowMe/ShowMe_Prefix.pch4231192#1153"    cd /Users/Bennyy/ShowMe    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/ShowMe-generated-files.hmap -I/Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/ShowMe-own-target-headers.hmap -I/Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/ShowMe-all-target-headers.hmap -iquote /Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/ShowMe-project-headers.hmap -F/Users/Bennyy/ShowMe/build/Debug -I/Users/Bennyy/ShowMe/build/Debug/include -I/Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/DerivedSources/i386 -I/Users/Bennyy/ShowMe/build/ShowMe.build/Debug/ShowMe.build/DerivedSources -c /Users/Bennyy/ShowMe/ShowMe_Prefix.pch -o /var/folders/uN/uN5H2uCnER4t7ut-IFQzcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ShowMe_Prefix-afiawrhtsqhiepgukxdjsywdadhx/ShowMe_Prefix.pch.gch0#
+
+CTouch /Users/Bennyy/ShowMe/build/Debug/ShowMe.app
+s313590348.404192
+e313590348.406642
+r1
+xTouch
+x/Users/Bennyy/ShowMe/build/Debug/ShowMe.app
+lSLF07#2@49"Touch /Users/Bennyy/ShowMe/build/Debug/ShowMe.app313590348#313590348#0(0"0(0#0#0"2574409664#94"    cd /Users/Bennyy/ShowMe    /usr/bin/touch -c /Users/Bennyy/ShowMe/build/Debug/ShowMe.app0#
+
